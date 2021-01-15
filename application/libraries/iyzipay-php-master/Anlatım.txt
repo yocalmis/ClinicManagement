@@ -1,0 +1,8 @@
+iyizico.com
+
+dev.iyzipay.com
+
+https://sandbox-merchant.iyzipay.com/transactions
+
+
+https://medium.com/kartliodemeler/iyzico-odeme-formu-entegrasyonu-597477e0f2c1

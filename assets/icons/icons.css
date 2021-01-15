@@ -1,0 +1,142 @@
+.sidenav__icon,
+.side-header__icon{
+	width: 24px !important;
+	height: 24px !important;
+	display: inline-block;
+	margin-right: .5rem;
+	background-size: cover;
+	background-repeat: no-repeat;
+	
+}
+.side-header__icon{
+	filter: invert(1);
+}
+.ico-access_time{
+	background-image: url('outline-access_time-24px.svg');
+}
+.ico-home{
+	background-image: url('outline-home-24px.svg');
+}
+.ico-location_city{
+	background-image: url('outline-location_city-24px.svg');
+}
+.ico-apps{
+	background-image: url('outline-apps-24px.svg'); 
+}
+.ico-crop_landscape{
+	background-image: url('outline-crop_landscape-24px.svg');
+}
+.ico-shuffle{
+	background-image: url('outline-shuffle-24px.svg');
+}
+.ico-group{
+	background-image: url('outline-group-24px.svg');
+}
+.ico-person{
+	background-image: url('outline-person-24px.svg');
+}
+.ico-assignment_ind{
+	background-image: url('outline-assignment_ind-24px.svg');
+}
+.ico-money{
+	background-image: url('outline-money-24px.svg');
+}
+.ico-inbox{
+	background-image: url('outline-inbox-24px.svg');
+}
+.ico-swap_calls{
+	background-image: url('outline-swap_calls-24px.svg');
+}
+.ico-local_atm{
+	background-image: url('outline-local_atm-24px.svg');
+}
+.ico-repeat{
+	background-image: url('outline-repeat-24px.svg');
+}
+.ico-payment{
+	background-image: url('outline-payment-24px.svg');
+}
+.ico-group_add{
+	background-image: url('outline-group_add-24px.svg');
+}
+.ico-account_balance{
+	background-image: url('outline-account_balance-24px.svg');
+}
+.ico-widgets{
+	background-image: url('outline-widgets-24px.svg');
+}
+.ico-airline_seat_flat{
+	background-image: url('outline-airline_seat_flat-24px.svg');
+}
+.ico-assignment{
+	background-image: url('outline-assignment-24px.svg');
+}
+.ico-folder_open{
+	background-image: url('outline-folder_open-24px.svg');
+}
+.ico-create_new_folder{
+	background-image: url('outline-create_new_folder-24px.svg');
+}
+.ico-bookmarks{
+	background-image: url('outline-bookmarks-24px.svg');
+}
+.ico-local_post_office{
+	background-image: url('outline-local_post_office-24px.svg');
+}
+.ico-aspect_ratio{
+	background-image: url('outline-aspect_ratio-24px.svg');
+}
+.ico-report{
+	background-image: url('outline-report-24px.svg');
+}
+.ico-show_chart{
+	background-image: url('outline-show_chart-24px.svg');
+}
+.ico-settings{
+	background-image: url('outline-settings-24px.svg');
+}
+.ico-settings_applications{
+	background-image: url('outline-settings_applications-24px.svg');
+}
+.ico-person_pin{
+	background-image: url('outline-person_pin-24px.svg');
+}
+.ico-lock_open{
+	background-image: url('outline-lock_open-24px.svg');
+}
+.ico-category{
+	background-image: url('outline-category-24px.svg');
+}
+.ico-supervisor_account{
+	background-image: url('outline-supervisor_account-24px.svg');
+}
+.ico-question_answer{
+	background-image: url('outline-question_answer-24px.svg');
+}
+.ico-exit_to_app{
+	background-image: url('outline-exit_to_app-24px.svg');
+}
+.ico-calendar_today{
+	background-image: url('outline-calendar_today-24px.svg');
+}
+.ico-attach_money{
+	background-image: url('outline-attach_money-24px.svg');
+}
+.ico-exposure{
+	background-image: url('outline-exposure-24px.svg');
+}
+.ico-menu{
+	background-image: url('outline-menu-24px.svg');
+}
+.ico-close{
+	background-image: url('outline-close-24px.svg');
+}
+.ico-domain{
+	background-image: url('outline-domain-24px.svg');
+}
+.ico-chrome_reader_mode{
+	background-image: url('outline-chrome_reader_mode-24px.svg');
+}
+.ico-person__fill{
+	background-image: url('baseline-person-24px.svg');
+}
